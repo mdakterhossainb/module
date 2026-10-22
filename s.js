@@ -6,4 +6,3 @@
 // console.log(result.name());
 // console.log(result.city());
 // console.log(result.cgpe);
-2222222222222;
