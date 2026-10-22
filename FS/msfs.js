@@ -1,3 +1,12 @@
+
+const fs = require("fs");
+fs.writeFile("test.html", "this is js file", (err) => {
+  // if (err) throw err;
+  console.log("File saved!, without if");
+});
+
+
+
 // const fs = require("fs");
 // fs.writeFile("index.html", "this is html file", function (err) {
 //     if (err) {
